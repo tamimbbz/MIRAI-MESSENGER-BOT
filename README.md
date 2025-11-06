@@ -1,3 +1,16 @@
+<br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxmaria761&langs_count=8&theme=react&bg_color=151515" />
+</p>
+<p align="center">
+<a href="https://github.com/rxmaria761"><img alt="MARIA BOT Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=rxmaria761&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rxmaria761&theme=black-ice"
+    alt="rX Abdullah"/></p>
+
+<br/>
+
+
 <br />
 <p align="center">
     <a href="https://github.com/rxabdullah007/MIRAI-MESSENGER-BOT-BY-RX">

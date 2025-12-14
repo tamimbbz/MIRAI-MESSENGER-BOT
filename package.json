@@ -1,7 +1,7 @@
 {
-  "name": "RX CHAT BOT",
-  "version": "10.1.1",
-  "description": "made by rX Abdullah",
+  "name": "MARIA V3",
+  "version": "3.0.0",
+  "description": "A Simple chatbot by rX",
   "main": "Abdullah.js",
   "engines": {
       "node": "20.x",
@@ -14,7 +14,7 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/rxmaria761/rX-Chat-bot.git"
+      "url": "https://github.com/rxabdullah007/MIRAI-MESSENGER-BOT-BY-RX.git"
   },
   "keywords": [
       "bot",
@@ -30,9 +30,9 @@
   "author": "rX Abdullah",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/rxmaria761/rX-Chat-bot/issues"
+      "url": "https://github.com/rxabdullah007/MIRAI-MESSENGER-BOT-BY-RX/issues"
   },
-  "homepage": "https://github.com/rxmaria761/rX-Chat-bot/issues",
+  "homepage": "https://github.com/rxabdullah007/MIRAI-MESSENGER-BOT-BY-RX/issues",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",

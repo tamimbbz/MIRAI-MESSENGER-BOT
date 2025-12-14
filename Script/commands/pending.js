@@ -1,7 +1,7 @@
 module.exports.config = {
 	name: "pending",
 	version: "1.0.5",
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "rX",
 	hasPermssion: 2,
 	description: "Manage bot's waiting messages",
 	commandCategory: "system",
@@ -22,7 +22,7 @@ module.exports.languages = {
     "en": {
         "invaildNumber": "%1 is not an invalid number",
         "cancelSuccess": "Refused %1 thread!",
-        "notiBox": "Maria BoT Connected Successfully!\nUse !help for see available command:>",
+        "notiBox": "｡ﾟ･｡･ﾟﾟ｡\nﾟ。𝙂𝙧𝙤𝙪𝙥 𝙖𝙥𝙥𝙧𝙤𝙫𝙚𝙙✨\n　ﾟ･｡･тнαηкѕ ƒσя υѕιηg мαяια ν3❤ •˚⠀", 
         "approveSuccess": "Approved successfully %1 threads!",
 
         "cantGetPendingList": "Can't get the pending list!",
@@ -80,4 +80,4 @@ module.exports.run = async function({ api, event, getText }) {
         })
 	}, messageID);
     else return api.sendMessage(getText("returnListClean"), threadID, messageID);
-}
+	}

@@ -7,7 +7,7 @@ module.exports.config = {
     name: "install",
     version: "1.5.0",
     hasPermission: 0,
-    credits: "rX",
+    credits: "rX Abdullah",
     description: "Install a JS command from code or URL; auto-load it immediately.",
     usePrefix: true,
     commandCategory: "utility",

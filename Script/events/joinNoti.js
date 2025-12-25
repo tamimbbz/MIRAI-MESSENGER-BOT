@@ -26,11 +26,11 @@ module.exports.run = async function ({ api, event, Users }) {
   if (userID == botID) {
 
     api.sendMessage(
-      "𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐚𝐝𝐝𝐢𝐧𝐠 𝐦𝐞 ❤️\n𝐓𝐲𝐩𝐞 !𝐡𝐞𝐥𝐩 𝐭𝐨 𝐬𝐞𝐞 𝐦𝐲 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬!",
+      "𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐚𝐝𝐝𝐢𝐧𝐠 𝐦𝐞 ❤️\n𝐓𝐲𝐩𝐞 /𝐡𝐞𝐥𝐩 𝐭𝐨 𝐬𝐞𝐞 𝐦𝐲 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬!",
       threadID
     );
 
-    await api.changeNickname("Sııƞƞeɽ мΛяเα 倫ッ", threadID, botID);
+    await api.changeNickname("your shayma baby 倫ッ", threadID, botID);
 
     return;
   }
